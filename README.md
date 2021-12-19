@@ -1,6 +1,6 @@
 # What is this
 - This is sample code of nvml and datadog agent setting manifest and Dockerfile
-  - Use IRSA + ASCP to make setting more secure
+  - Use AWS IRSA + ASCP to make setting more secure(for Amazon EKS User)
     - IRSA: https://docs.aws.amazon.com/eks/latest/userguide/iam-roles-for-service-accounts.html
     - ASCP: https://docs.aws.amazon.com/secretsmanager/latest/userguide/integrating_csi_driver.html
 # Why I create this
